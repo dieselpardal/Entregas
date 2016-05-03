@@ -13,7 +13,7 @@ Para executa no site de Servidor de Local:
     
     a) No terminal: grunt http-server
     
-    b) No navegador: http://0.0.0.0:8282
+    b) No navegador: http://0.0.0.0:8200
 
 
 Instalação de grunt
