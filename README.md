@@ -13,12 +13,13 @@ Para executa no site de Servidor de Local:
     b) No navegador: http://0.0.0.0:8282
 
 
-Instalacção de grunt
+Instalação de grunt
 --------------------
 No terminal, digitar em seguinte:
 1) Instalacao de grunt:
   1.1) npm install -g grunt-cli
   1.2) npm install grunt --save-dev
+
 
 2) Servidor de Local:
   2.1) npm install grunt-http-server
@@ -26,3 +27,4 @@ No terminal, digitar em seguinte:
   2.3) no terminal: grunt http-server
 
 Para saber mais: http://gruntjs.com/
+
