@@ -1,22 +1,16 @@
-<!DOCTYPE html>
-<html  ng-app="myApp">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>Entregas</title>
-
     <script src= "d3.min.js"></script>
     <script src="service.js"></script>
-
+    <script src="entregas.js"></script>
 </head>
 <body >
 <div class="Entregas">
     Entregas
 </div>
-<div >
-    <button onclick="gerarGrafico()">Gerar grafico</button>
-    <div id="quadroLinha" style="width:500px; height:500px; ">
-        <div id="quadros"></div>
-    </div>
-</div>
+<div id="quadros"></div>
+<script> gerarGrafico(); </script>
 </body>
 </html>
